@@ -1,0 +1,32 @@
+{
+  "name": "B2·4 · Grammatik",
+  "short_name": "B2·4 Gramm",
+  "description": "Справочник по немецкой грамматике: приставки, суффиксы, предлоги управления, схемы.",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#E8E2D5",
+  "theme_color": "#2F6B3C",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
